@@ -9,9 +9,11 @@ for (var counter = 0; counter < 5; counter++) {
     while (isNaN(numero)) {
       numero = prompt("Errore. Scrivi un numero");
     }
+  console.log("numero " + numero + " + ");
   somma += numero;
 }
 
 
 //Il programma stampa la somma di tutti i numeri inseriti.
-console.log(somma)
+console.log(somma);
+alert(somma);

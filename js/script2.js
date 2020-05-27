@@ -24,7 +24,3 @@ while (count < 100) {
   //Stampo i numeri.
   console.log(numero);
 }
-
-
-
-//Per i numeri che sono sia multipli di 3 che di 5 stampa FizzBuzz.

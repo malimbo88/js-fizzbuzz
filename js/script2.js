@@ -6,7 +6,7 @@ var buzz = "Buzz";
 
 //Stampa i numeri da 1 a 100.
 var count = 1;
-while (count < 100) {
+while (count <= 100) {
   //Variabile di appoggio numero
   var numero = count;
 
